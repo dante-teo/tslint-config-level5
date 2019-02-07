@@ -4,7 +4,7 @@
   "description": "",
   "main": "tslint.json",
   "scripts": {
-    "lint": "tslint --fix test.ts"
+    "lint": "tslint --fix --project tslint.json test.ts"
   },
   "author": "Dante Teo",
   "license": "MIT",
