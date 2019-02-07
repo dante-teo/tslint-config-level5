@@ -1,0 +1,11 @@
+{
+	"defaultServerity": "error",
+	"extends": [
+		"tslint:recommended"
+	],
+	"jsRules": {},
+	"rules": {
+		"semicolon": [true, "never"],
+		"indent": [true, "tabs"]
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "name": "tslint-config-level5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tslint.json",
+  "scripts": {
+    "lint": "tslint --fix test.ts"
+  },
+  "author": "Dante Teo",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  }
+}
