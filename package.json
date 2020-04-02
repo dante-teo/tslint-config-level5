@@ -9,7 +9,7 @@
   "author": "Dante Teo",
   "license": "MIT",
   "devDependencies": {
-    "tslint": "^5.12.1",
+    "tslint": "^6.1.1",
     "typescript": "^3.3.3"
   }
 }
